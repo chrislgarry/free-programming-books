@@ -1,4 +1,4 @@
-###Index
+### Index
 * [Metalistas](#metalistas)
 * [Agnósticos](#agnosticos)
     * [Algoritmos y Estructuras de Datos](#algoritmos)
@@ -22,15 +22,15 @@
 * [Ruby on Rails](#ruby-on-rails)
 * [R](#R)
 
-###Metalistas
+### Metalistas
 
 * [¡Quiero Aprender Python! - Python Argentina](http://python.org.ar/AprendiendoPython)
 * [CodeHero](http://codehero.co/)
 * [OPENLIBRA La Biblioteca Libre online que estabas esperando](http://www.etnassoft.com/biblioteca/)
 
-###Agnosticos
+### Agnósticos
 
-####Algoritmos
+#### Algoritmos
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
 * [Análisis de Algoritmos](http://docencia.izt.uam.mx/pece/pagina_academica/AA/indexa.html)
 * [Análisis y Diseño de Algoritmos](http://www.aliatuniversidades.com.mx/bibliotecasdigitales/pdf/sistemas/Analisis_y_disenio_de_algoritmos.pdf) (PDF)
@@ -38,58 +38,58 @@
 * [Técnicas de Diseño de Algoritmos ](http://www.lcc.uma.es/~av/Libro/indice.html) ([PDF](http://www.lcc.uma.es/%7eav/Libro/Libro.zip))
 * [Temas selectos de estructuras de datos](http://www.matematicas.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) (PDF)
 
-####Base de Datos
+#### Base de Datos
 * [El modelo relacional y el álgebra relacional](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02148.pdf) (PDF)
 * [Apuntes de Base de Datos 1, Universidad de Alicante](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) (PDF)
 * [Base de Datos, por Mercedes Marqués](http://www.uji.es/bin/publ/edicions/bdatos.pdf) (PDF)
 * [Introducción a las Bases de Datos](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02147.pdf) (PDF)
 
-####Ciencia Computacional
+#### Ciencia Computacional
 * [Breves Notas sobre Teoría de la Computación](http://www.matematicas.unam.mx/jloa/publicaciones/teoria.pdf) (PDF)
 * [Breves Notas sobre Autómatas y Lenguajes](http://www.matematicas.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) (PDF)
 
-###Emacs
+### Emacs
 * [Emacs: Iniciación a la edición](http://www.rpublica.net/emacs/emacs.html)
 
-####Sistemas Operativos
+#### Sistemas Operativos
 * [Sistemas Operativos, por Dr. David Luis la Red](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) (PDF)
 
-####Metodologías de desarrollo de software
+#### Metodologías de desarrollo de software
 * [Scrum y XP desde la trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf)
 * [Diseño Ágil con TDD](http://www.dirigidoportests.com/el-libro)
 
-####Misceláneos
+#### Misceláneos
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador)
 
-###Android
+### Android
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver
 
-###CSS
+### CSS
 * [Guía Completa de CSS3](http://www.etnassoft.com/biblioteca/guia-completa-de-css3/)
 * [Introducción a CSS](http://librosweb.es/css/)
 * [CSS avanzado](http://librosweb.es/css_avanzado/)
 * [Estructura con CSS](http://es.learnlayout.com/)
 
-###C++
+### C++
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/)
 
-###Ensamblador
+### Ensamblador
 
 * [Lenguaje Ensamblador para PC - Paul Carter](http://drpaulcarter.com/pcasm/)
 * [Codigo de Maquina para Principiantes](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF), Lisa Watts y Mike Wharton [Z80 and 6502 CPUs]
 
 
-###Git
+### Git
 
 * [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/)
 * [Pro Git](http://git-scm.com/book/es)
 * [Git Immersion en Español](http://gitimmersion.mx)
 
-###Haskell
+### Haskell
 
 * [¡Aprende Haskell por el bien de todos!](http://aprendehaskell.es/main.html)
 
-###Java
+### Java
 
 * [Notas de Introducción al Lenguaje de Programación Java](http://www.matematicas.unam.mx/jloa/publicaciones/introduccionJava.pdf), por Jorge L. Ortega Arjona, UNAM (PDF)
 * [Arquitectura Java Sólida](http://www.arquitecturajava.com/)
@@ -98,16 +98,16 @@
 * [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/areas/publicaciones/476/pensando-la-computacion-como-un-cientifico.html)
 * [Programación Orientada a Objetos en Java](http://fcasua.contad.unam.mx/apuntes/interiores/docs/98/opt/java.pdf) (PDF)
 
-###JavaScript
+### JavaScript
 
 * [Introducción a JavaScript](http://librosweb.es/javascript/)
 * [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es)
 
-###LaTeX
+### LaTeX
 
 * [La introducción no-tan-corta a LaTeX 2ε](http://www.ctan.org/tex-archive/info/lshort/spanish)
 
-###Python
+### Python
 
 * [Aprenda a pensar como un programador (con Python)](http://web.ballardini.com.ar/ai/raw-attachment/wiki/BibliografiaPython/thinkCSpy-es.pdf) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://www.biblioteca-digital.net.ve/wordpress/wp-content/uploads/2009/09/swfk-es-linux-0.0.2.pdf) (PDF)
@@ -120,16 +120,16 @@
 * [Introducción a la programación con Python](http://www.uji.es/bin/publ/edicions/ippython.pdf) (PDF)
 * [Doma de Serpientes para Niños](http://code.google.com/p/swfk-es/)
 
-###Ruby
+### Ruby
 
 * [Guía para aprender a programar con Ruby. Adaptación al español del libro "Learn to Program" de Chris Pine](https://github.com/rubyperu/aprende.a.programar)
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart/)
 
-###Ruby on Rails
+### Ruby on Rails
 
 * [El maldito libro de los Descarrilados](http://yottabi.com/mld.pdf) (PDF)
 
-###R
+### R
 * [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf)
 * [An Introduction to R](http://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf)
 * [Gráficos Estadísticos con R](http://cran.r-project.org/doc/contrib/grafi3.pdf)
